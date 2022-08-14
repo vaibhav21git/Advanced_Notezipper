@@ -33,7 +33,7 @@ You can register a new account or login with an existing one.
 
 ### Editprofile
 
-![](4editprofile)
+![](4editprofile.png)
 
 ### Createnote
 
