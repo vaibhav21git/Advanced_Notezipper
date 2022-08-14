@@ -21,23 +21,27 @@ Here is a working live demo :  https://notezipper.herokuapp.com/ -->
 
 You can register a new account or login with an existing one.
 
-![]()
+![](1landingpage.png)
 
-### Edit Profile
+### Register Profile
 
-![]()
+![](2register.png)
 
-### Create a Note
+### Loginpage
 
-![]()
+![](3login.png)
 
-### All Notes
+### Editprofile
 
-![]()
+![](4editprofile)
 
-### Edit Note
+### Createnote
 
-![]()
+![](5create.png)
+
+### Detailnote
+
+![](6detail.png)
 
 ## Built with
 
