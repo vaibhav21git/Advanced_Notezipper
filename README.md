@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  Note Zipper provides you one safe place for all your notes.
+  Notezipper provides you one safe place for all your notes with authentication 
 </td>
 </tr>
 </table>
@@ -13,13 +13,9 @@ Here is a working live demo :  https://notezipper.herokuapp.com/ -->
 
 ## Site
 
-### Landing Page
-
-![]()
-
-### Login Form
 
 You can register a new account or login with an existing one.
+### Landing Page
 
 ![](1landingpage.png)
 
