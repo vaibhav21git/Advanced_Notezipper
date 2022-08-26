@@ -23,6 +23,8 @@ const reducer = combineReducers({
   userUpdate: userUpdateReducer,
 });
 
+// one reducer always corrsponds to one combination of state and one reducer can involve many actions to change the single big state
+
 const userInfoFromStorage = localStorage.getItem("userInfo")
   ? JSON.parse(localStorage.getItem("userInfo"))
   : null;
